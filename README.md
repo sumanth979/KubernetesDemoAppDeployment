@@ -26,4 +26,5 @@ kubectl create -f *.yaml
 ```bash
 minikube service serviceName --url
 ```
+* Use the service URL of Voting App and Result App to validate the Application deployment.
 
