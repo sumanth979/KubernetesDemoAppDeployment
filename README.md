@@ -1,4 +1,4 @@
-# KubernetesDemoAppDeployment
+# Kubernetes Demo App Deployment
 Sample Voting App deployment in a micro services architecture.
 
 #### The Deployment Invloves the following Steps:
